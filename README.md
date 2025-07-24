@@ -17,4 +17,8 @@
 ```bash
 git clone https://github.com/B1tZ3r0/ZIPFREAK.git
 cd ZIPFREAK
-./install.sh
+sudo chmod +x install.sh
+sudo ./install.sh
+sudo chmod +x ZIPFREAK.sh
+./ZIPFREAK.sh
+
