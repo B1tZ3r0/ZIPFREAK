@@ -1,0 +1,57 @@
+                    GNU GENERAL PUBLIC LICENSE
+                       Version 3, 29 June 2007
+
+ Copyright (C) 2025 B1tZ3r0 (SpeCTeR)
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
+
+                            Preamble
+
+  The GNU General Public License is a free, copyleft license for
+software and other kinds of works.
+
+  This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+  This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+  You should have received a copy of the GNU General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+                    GNU GENERAL PUBLIC LICENSE
+   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+
+  0. Definitions:
+  - "This License" refers to version 3 of the GNU General Public License.
+  - "Copyright" also covers copyright-like laws that apply to other kinds of works.
+  - "The Program" refers to ZIPFREAK and any copyrightable work licensed under this License.
+
+  1. Source Code:
+  The complete source code of ZIPFREAK is available at:
+  https://github.com/B1tZ3r0/ZIPFREAK
+
+  2. Basic Permissions:
+  You may:
+  - Use the program for any purpose
+  - Study how it works (via provided source)
+  - Redistribute copies
+  - Modify and distribute modified versions
+
+  3. Limitations:
+  - You must disclose source code of modified versions
+  - Modified versions must carry prominent notices
+  - You may not sublicense or hold liable for damages
+
+  4. Ethical Use Clause:
+  While this software has legitimate uses for:
+  - Digital forensics
+  - Password recovery of user-owned files
+  - Security research
+  The author does not condone its use for illegal activities.
+
+For the full license text, visit: https://www.gnu.org/licenses/gpl-3.0.en.html
