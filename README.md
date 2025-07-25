@@ -1,7 +1,7 @@
 # ZIPFREAK - Advanced ZIP Password Utility
 
 ![ZIPFREAK Banner](assets/banner.png)
-## 🎥 Demo
+## 🎥 Screen Recording with Peek
 ![ZIPFREAK in Action](assets/demo.gif)
 *Creating and cracking a password-protected ZIP file*
 
