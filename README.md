@@ -1,6 +1,9 @@
 # ZIPFREAK - Advanced ZIP Password Utility
 
 ![ZIPFREAK Banner](assets/banner.png)
+## 🎥 Demo
+![ZIPFREAK in Action](assets/demo.mp4)
+*Creating and cracking a password-protected ZIP file*
 
 > **Ethical Password Recovery Toolkit** - Create secure ZIP archives or recover lost passwords with cutting-edge techniques.
 
