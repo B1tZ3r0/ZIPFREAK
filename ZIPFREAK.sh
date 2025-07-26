@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# ZIPFREAK v2.0 - Advanced ZIP Password Utility
+# ZIPFREAK v1.0 - Advanced ZIP Password Utility
 # License: GNU GPLv3 (https://www.gnu.org/licenses/gpl-3.0.html)
 # Copyright (C) 2025 B1tZ3r0 - SpeCTeR
 #
